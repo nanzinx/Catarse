@@ -69,10 +69,6 @@ nav li a {
     margin-bottom: 4px;
 }
 
-.conteudo {
-    background-color: black;
-}
-
 .container-flex {
     display: flex;
 }
@@ -163,4 +159,10 @@ footer li img {
     .conteudo {
         display: block;
     }
+
+    .container {
+        max-width: 90%;
+    }
+
+    
 }
